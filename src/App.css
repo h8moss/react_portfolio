@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.quicksand-font {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.outfit-font {
+  font-family: 'Outfit', sans-serif;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
